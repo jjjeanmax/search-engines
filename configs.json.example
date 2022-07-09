@@ -1,0 +1,18 @@
+{
+    "CENSYS":{
+
+        "CENSYS_API_ID" : "",
+        "CENSYS_API_SECRET":""
+    },
+
+    "ZOOMEYE":{
+        "username" : "",
+        "password" : ""
+    },
+
+    "SHODAN":{
+        "SHODAN_API_KEY" : ""
+
+    }
+}
+
